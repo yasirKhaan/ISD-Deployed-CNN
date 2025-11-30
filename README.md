@@ -2,6 +2,8 @@
 
 An AI-powered web application for detecting abnormalities in musculoskeletal X-ray images using deep learning.
 
+### Deployed App URL: https://isd-deployed-mura-cnn.streamlit.app
+
 ## 🎯 Features
 
 - **Real-time X-ray Analysis**: Upload elbow or finger X-rays for instant abnormality detection
