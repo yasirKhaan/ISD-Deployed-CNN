@@ -54,10 +54,6 @@ This application is for educational and research purposes only. It should NOT be
 
 MIT License
 
-## 👨‍💻 Author
-
-[Your Name]
-
 ## 🙏 Acknowledgments
 
 - Stanford ML Group for the MURA dataset
